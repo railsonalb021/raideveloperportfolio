@@ -166,13 +166,13 @@
 
         <div class="flex gap-3">
           <NuxtLink
-            to="https://marcenaria-maranhao.vercel.app/"
+            to="https://raideveloperportfolio.vercel.app/"
             class="rounded-xl font-medium transition-all duration-300 hover:scale-105" target="_blank">
             <Icon name="mdi:link" class="text-3xl text-white hover:text-orange-500 transition-all ease-out duration-300" />
           </NuxtLink>
  
           <NuxtLink
-            to="https://github.com/railsonalb021/marcenaria-maranhao"
+            to="https://github.com/railsonalb021/raideveloperportfolio"
             class="rounded-xl font-medium transition-all duration-300 hover:scale-105" target="_blank">
           <Icon name="mdi:github" class="text-3xl text-white hover:text-orange-500 transition-all ease-out duration-300" />
           </NuxtLink>
