@@ -103,17 +103,17 @@
       </div>
 
       <div class="flex flex-wrap gap-3 px-3">
-        <Icon name="devicon:vuejs" class="text-4xl text-green-500" />
-        <Icon name="devicon:nuxt" class="text-4xl text-green-500" />
-        <Icon name="devicon:tailwindcss" class="text-4xl text-green-500" />
-        <Icon name="devicon:typescript" class="text-4xl text-green-500" />
-        <Icon name="mdi:github" class="text-4xl text-white" />
-        <Icon name="devicon:git" class="text-4xl text-green-500" />
-        <Icon name="devicon:html5" class="text-4xl text-green-500" />
-        <Icon name="devicon:css3" class="text-4xl text-green-500" />
-        <Icon name="devicon:javascript" class="text-4xl text-green-500" />
-        <Icon name="devicon:mongodb" class="text-4xl text-green-500" />
-        <Icon name="simple-icons:openai" class="text-4xl text-white" />
+        <Icon name="devicon:vuejs" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
+        <Icon name="devicon:nuxt" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
+        <Icon name="devicon:tailwindcss" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
+        <Icon name="devicon:typescript" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
+        <Icon name="mdi:github" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
+        <Icon name="devicon:git" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
+        <Icon name="devicon:html5" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
+        <Icon name="devicon:css3" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
+        <Icon name="devicon:javascript" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
+        <Icon name="devicon:mongodb" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
+        <Icon name="simple-icons:openai" class="text-4xl hover:scale-125 transition-all ease-out duration-300" />
       </div>
     </div>
   </div>
