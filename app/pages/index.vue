@@ -113,7 +113,7 @@
         <Icon name="devicon:css3" class="text-4xl text-green-500" />
         <Icon name="devicon:javascript" class="text-4xl text-green-500" />
         <Icon name="devicon:mongodb" class="text-4xl text-green-500" />
-        <Icon name="devicon:postgresql" class="text-4xl text-green-500" />
+        <Icon name="simple-icons:openai" class="text-4xl text-white" />
       </div>
     </div>
   </div>
